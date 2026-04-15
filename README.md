@@ -11,3 +11,5 @@ This project presents an interactive Tableau dashboard analyzing airline delay c
 - Delay patterns vary across airlines, with some carriers showing higher delay frequencies
 - Geographic analysis shows delay concentration in specific regions
 - Delay trends fluctuate over time, indicating possible seasonal or operational factors
+
+<img width="1450" height="598" alt="US Flight Delay" src="https://github.com/user-attachments/assets/40b40969-3dfe-44ef-9782-8f87a37e35b4" />
